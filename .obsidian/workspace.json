@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "285eb75ccbf62f8c",
+        "id": "9cb942d0ca977a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "7d588d947402cfda",
+            "id": "fb363ff3136bc065",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7cd640af8c3157b1",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82f16920be2b0bbe",
+  "active": "fb363ff3136bc065",
   "lastOpenFiles": [
+    "数电.md",
     "tmp/pdfs/digital-ch5-review/page-39.png",
     "tmp/pdfs/digital-ch5-review/page-38.png",
     "tmp/pdfs/digital-ch5-review/page-37.png",
@@ -212,12 +215,10 @@
     "tmp/pdfs/digital-ch5-review/page-30.png",
     "tmp/pdfs/digital-ch5-review/page-28.png",
     "tmp/pdfs/digital-ch5-review/page-26.png",
-    "tmp/pdfs/digital-ch5-review/page-24.png",
     "tmp/pdfs/digital-ch5-review",
     "tmp/pdfs",
     "tmp",
     "信号与系统.md",
-    "数电.md",
     "未命名.base",
     "未命名 1.base",
     "assets/数电",
