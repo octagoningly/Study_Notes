@@ -11,14 +11,13 @@
             "id": "7d588d947402cfda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "数电.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "数电"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数电.md",
+                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,10 +190,11 @@
   },
   "active": "7d588d947402cfda",
   "lastOpenFiles": [
+    "未命名 1.base",
+    "数电.md",
     "assets/数电",
     "未命名",
     "2026-10-09.md",
-    "数电.md",
     "assets/数电1234567890",
     "assets/数电/file-20261009125821127.png",
     "assets/数电1234567890/file-20261009121504966.png",
@@ -213,8 +213,6 @@
     "assets/数电1",
     "file-20261009121132277.png",
     "file-20261009120555202.png",
-    "assets/数电$",
-    "assets",
-    "新建 文本文档.txt"
+    "assets/数电$"
   ]
 }
