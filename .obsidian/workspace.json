@@ -11,14 +11,12 @@
             "id": "c68e5e6bf31a7f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "数电1.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/数电1234567/file-20261009121504966.png"
               },
-              "icon": "lucide-file",
-              "title": "数电1"
+              "icon": "lucide-image",
+              "title": "file-20261009121504966"
             }
           }
         ]
@@ -189,19 +187,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c68e5e6bf31a7f3a",
+  "active": "a9b0eb16ba1a44e7",
   "lastOpenFiles": [
+    "assets/数电1234567",
+    "数电1234567.md",
+    "assets/数电1234",
+    "未命名.base",
+    "assets/数电1234567/file-20261009125821127.png",
     "file-20261009121944400.png",
     "file-20261009121711876.png",
-    "assets/数电1/file-20261009121504966.png",
+    "assets/数电1234567/file-20261009121504966.png",
     "assets/数电$/{generatedAttachmentFileName}.md",
-    "数电1.md",
     "assets/数电1/{generatedAttachmentFileName}.md",
     "assets/数电1",
     "file-20261009121132277.png",
     "2026-10-09.md",
     "file-20261009101237566.png",
-    "未命名.base",
     "file-20261009120555202.png",
     "assets/数电$",
     "assets",
