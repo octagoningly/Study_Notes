@@ -1,0 +1,4 @@
+/* 仅用于 [!knowledge] 的显示试验：保留提示块颜色，隐藏标题与图标。 */
+.callout[data-callout="knowledge"] .callout-title {
+  display: none;
+}
