@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7cd640af8c3157b1",
@@ -197,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9b0eb16ba1a44e7",
+  "active": "5ab3c11393e6dd11",
   "lastOpenFiles": [
     "assets/量子力学/file-20261009234831173.png",
     "assets/量子力学/file-20261009234350034.png",
