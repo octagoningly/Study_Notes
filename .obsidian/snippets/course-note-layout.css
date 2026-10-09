@@ -1,0 +1,16 @@
+/* 课程笔记：核心知识块保留颜色，隐藏标题栏与图标。 */
+.callout[data-callout="knowledge"] .callout-title {
+  display: none;
+}
+
+/* 正文首行缩进两个汉字宽度；列表、提示块标题和图片段落不缩进。 */
+.markdown-rendered p {
+  text-indent: 2em;
+}
+
+.markdown-rendered li > p,
+.markdown-rendered .callout-title,
+.markdown-rendered p:has(> img),
+.markdown-rendered p:has(> .internal-embed) {
+  text-indent: 0;
+}
