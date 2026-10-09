@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "49b8185afc8769fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa99f13ccec8ca0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5efdff869377a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-09"
+            }
+          },
+          {
+            "id": "a294e74f1572a11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数电.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数电"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c5e201d0456af85",
+    "type": "split",
+    "children": [
+      {
+        "id": "67f9cf4bc1a1f37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b0eb16ba1a44e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "17491d721aef8416",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dae9fc6d33005a34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cd640af8c3157b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4bb46d9dbf5307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b2c5d96e14fbbd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数电.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "82c5f8682c2e8917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数电.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9c6fc0d07b1b1408",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a8ca0f2274103019",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "82f16920be2b0bbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数电.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a294e74f1572a11e",
+  "lastOpenFiles": [
+    "file-20261009101237566.png",
+    "未命名.base",
+    "数电.md",
+    "2026-10-09.md",
+    "新建 文本文档.txt"
+  ]
+}
