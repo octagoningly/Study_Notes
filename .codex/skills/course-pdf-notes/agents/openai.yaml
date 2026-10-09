@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程 PDF 笔记"
+  short_description: "将理工科 PDF 课件整理为清晰、便于复习的 Obsidian 笔记"
+  default_prompt: "使用 $course-pdf-notes 将这份课程 PDF 整理为结构清晰的 Obsidian 笔记，默认使用插图占位模式。"
