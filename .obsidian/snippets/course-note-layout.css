@@ -3,14 +3,15 @@
   display: none;
 }
 
-/* 正文首行缩进两个汉字宽度；列表、提示块标题和图片段落不缩进。 */
-.markdown-rendered p {
-  text-indent: 2em;
+/* 正文首行插入两个全角空格，续行回到正常左边界。 */
+.markdown-rendered p::before {
+  content: "　　";
 }
 
-.markdown-rendered li > p,
-.markdown-rendered .callout-title,
-.markdown-rendered p:has(> img),
-.markdown-rendered p:has(> .internal-embed) {
-  text-indent: 0;
+/* 列表、提示块标题和图片段落不插入首行空格。 */
+.markdown-rendered li > p::before,
+.markdown-rendered .callout-title::before,
+.markdown-rendered p:has(> img)::before,
+.markdown-rendered p:has(> .internal-embed)::before {
+  content: none;
 }
