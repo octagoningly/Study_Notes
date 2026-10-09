@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数电.md",
+                "file": "量子力学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数电"
+              "title": "量子力学"
             }
           }
         ]
@@ -200,7 +200,8 @@
   },
   "active": "5ab3c11393e6dd11",
   "lastOpenFiles": [
-    "量子力学_一维问题.md",
+    "数电.md",
+    "量子力学.md",
     "assets/数电/file-20261009190056753.png",
     "assets/数电/file-20261009185852934.png",
     "assets/数电/file-20261009184305656.png",
@@ -211,7 +212,6 @@
     "assets/数电/file-20261009183620090.png",
     "assets/数电/file-20261009183349347.png",
     "assets/数电/file-20261009183303778.png",
-    "数电.md",
     "tmp/pdfs/digital-ch5-review",
     "tmp/pdfs",
     "tmp",
