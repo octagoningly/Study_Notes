@@ -11,13 +11,14 @@
             "id": "7d588d947402cfda",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "视图"
+                "file": "数电.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "数电"
             }
           }
         ]
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
+                "file": "数电.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,13 +169,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "08bdea5cf25fb854",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d588d947402cfda",
+  "active": "a9b0eb16ba1a44e7",
   "lastOpenFiles": [
+    "未命名.base",
     "未命名 1.base",
     "数电.md",
     "assets/数电",
@@ -205,7 +217,6 @@
     "file-20261009101237566.png",
     "assets/数电1234567",
     "assets/数电1234",
-    "未命名.base",
     "file-20261009121944400.png",
     "file-20261009121711876.png",
     "assets/数电$/{generatedAttachmentFileName}.md",
