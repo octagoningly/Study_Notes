@@ -23,7 +23,7 @@
   "orphanAttachmentScanPaths": [],
   "otherPluginIdsForAttachmentRename": [],
   "proposedRenameDeleteSettings": null,
-  "renameAttachmentsCreatedByOtherPluginsMode": "None",
+  "renameAttachmentsCreatedByOtherPluginsMode": "All",
   "renamedAttachmentFileName": "",
   "shouldCollectAttachmentsAutomatically": false,
   "shouldFollowObsidianAttachmentLocation": true,

@@ -8,7 +8,7 @@
   "shouldHandleDeletions": false,
   "shouldHandleRenames": false,
   "shouldRenameAttachmentFiles": true,
-  "shouldRenameAttachmentFolder": false,
+  "shouldRenameAttachmentFolder": true,
   "shouldRescueSharedAttachments": false,
   "shouldUpdateFileNameAliases": true,
   "treatAsAttachmentExtensions": [
