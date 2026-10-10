@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "4aa4028867f272f8",
+        "id": "02685428e02e217a",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ddd98d41385827",
+            "id": "d961ce3c159807da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数电.md",
+                "file": "量子力学.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "量子力学"
+            }
+          },
+          {
+            "id": "00b1fa2845c21745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复变.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数电"
+              "title": "复变"
+            }
+          },
+          {
+            "id": "b16a082630742c3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -150,7 +174,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "数电.md",
+            "file": "量子力学.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,27 +194,29 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "bases:新建数据库": true,
+      "canvas:新建白板": true,
+      "templates:插入模板": true,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0ddd98d41385827",
+  "active": "d961ce3c159807da",
   "lastOpenFiles": [
     "量子力学.md",
+    "复变.md",
+    "未命名.canvas",
+    "未命名.base",
+    "2026-10-10.md",
     "数电.md",
     "assets/数电/file-20261010104238778.png",
-    "未命名.canvas",
-    "复变.md",
     "信号与系统.md",
     "tmp/pdfs/digital-ch5-review/page-39.png",
     "tmp/pdfs/digital-ch5-review/page-38.png",
