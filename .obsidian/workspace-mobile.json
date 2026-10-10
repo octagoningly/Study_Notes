@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54576ccf3137eeb7",
+        "id": "02685428e02e217a",
         "type": "tabs",
         "children": [
           {
-            "id": "72c9da1ba321a8d5",
+            "id": "d961ce3c159807da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,20 +176,20 @@
     "hiddenItems": {
       "daily-notes:打开/创建今天的日记": false,
       "bases:新建数据库": false,
-      "graph:查看关系图谱": false,
-      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72c9da1ba321a8d5",
+  "active": "d961ce3c159807da",
   "lastOpenFiles": [
-    "未命名.base",
-    "2026-10-10.md",
     "未命名.canvas",
     "量子力学.md",
+    "未命名.base",
+    "2026-10-10.md",
     "复变.md",
     "数电.md",
     "assets/数电/file-20261010104238778.png",
