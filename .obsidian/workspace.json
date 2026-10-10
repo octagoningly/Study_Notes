@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量子力学.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "复变.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "量子力学"
+              "title": "复变"
             }
           }
         ]
@@ -183,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f48abd288638efb0",
+  "active": "08bdea5cf25fb854",
   "lastOpenFiles": [
-    "复变.md",
     "量子力学.md",
+    "复变.md",
     "数电.md",
     "未命名.canvas",
     "assets/数电/file-20261010104238778.png",
