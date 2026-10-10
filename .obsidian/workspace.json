@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "603dfb44d8bf04e3",
+        "id": "0c2a232e316c04fc",
         "type": "tabs",
         "children": [
           {
-            "id": "42ef1de411c8111a",
+            "id": "f48abd288638efb0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7cd640af8c3157b1",
@@ -179,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,12 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08bdea5cf25fb854",
+  "active": "f48abd288638efb0",
   "lastOpenFiles": [
+    "量子力学.md",
     "数电.md",
     "未命名.canvas",
     "assets/数电/file-20261010104238778.png",
-    "量子力学.md",
     "复变.md",
     "assets/量子力学/file-20261010090210582.png",
     "assets/量子力学/file-20261010090054196.png",
