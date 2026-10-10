@@ -2,5 +2,8 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "course-note-layout"
-  ]
+  ],
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": false
 }
