@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4aa4028867f272f8",
+        "id": "54576ccf3137eeb7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ddd98d41385827",
+            "id": "72c9da1ba321a8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,23 +174,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "bases:新建数据库": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0ddd98d41385827",
+  "active": "72c9da1ba321a8d5",
   "lastOpenFiles": [
+    "未命名.base",
+    "2026-10-10.md",
+    "未命名.canvas",
+    "量子力学.md",
     "复变.md",
     "数电.md",
-    "量子力学.md",
     "assets/数电/file-20261010104238778.png",
-    "未命名.canvas",
     "信号与系统.md",
     "tmp/pdfs/digital-ch5-review/page-39.png",
     "tmp/pdfs/digital-ch5-review/page-38.png",
