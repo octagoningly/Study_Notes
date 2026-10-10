@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "量子力学.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "复变"
+            }
+          },
+          {
+            "id": "b16a082630742c3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -200,8 +210,8 @@
   },
   "active": "d961ce3c159807da",
   "lastOpenFiles": [
-    "复变.md",
     "量子力学.md",
+    "复变.md",
     "未命名.canvas",
     "未命名.base",
     "2026-10-10.md",
