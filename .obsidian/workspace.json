@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3cc604fdff07a1e",
+        "id": "2967b40c1da6af26",
         "type": "tabs",
         "children": [
           {
-            "id": "8557baab43b70e26",
+            "id": "bc08b8b823f96d0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7cd640af8c3157b1",
@@ -198,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8557baab43b70e26",
+  "active": "bc08b8b823f96d0b",
   "lastOpenFiles": [
     "复变.md",
     "量子力学.md",
