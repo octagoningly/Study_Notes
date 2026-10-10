@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3401d0d5037cd9",
+        "id": "4aa4028867f272f8",
         "type": "tabs",
         "children": [
           {
-            "id": "371a26a088d4bb6c",
+            "id": "f0ddd98d41385827",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,12 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "371a26a088d4bb6c",
+  "active": "f0ddd98d41385827",
   "lastOpenFiles": [
+    "量子力学.md",
+    "数电.md",
     "assets/数电/file-20261010104238778.png",
     "未命名.canvas",
-    "数电.md",
-    "量子力学.md",
     "复变.md",
     "信号与系统.md",
     "tmp/pdfs/digital-ch5-review/page-39.png",
@@ -201,7 +201,6 @@
     "tmp/pdfs/digital-ch5-review/page-31.png",
     "tmp/pdfs/digital-ch5-review/page-30.png",
     "tmp/pdfs/digital-ch5-review/page-28.png",
-    "tmp/pdfs/digital-ch5-review/page-26.png",
     "tmp/pdfs/digital-ch5-review",
     "tmp/pdfs",
     "tmp",
