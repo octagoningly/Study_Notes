@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2967b40c1da6af26",
+        "id": "5a3d419d1e506403",
         "type": "tabs",
         "children": [
           {
-            "id": "bc08b8b823f96d0b",
+            "id": "26cd4de8efe745d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "复变.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "复变"
+              "title": "新标签页"
             }
           }
         ]
@@ -197,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc08b8b823f96d0b",
+  "active": "26cd4de8efe745d4",
   "lastOpenFiles": [
     "复变.md",
     "量子力学.md",
