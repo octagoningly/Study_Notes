@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3d419d1e506403",
+        "id": "de45d6a7d9e2fb0f",
         "type": "tabs",
         "children": [
           {
-            "id": "26cd4de8efe745d4",
+            "id": "1c91c4cac158f5c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数电.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数电"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7cd640af8c3157b1",
@@ -193,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26cd4de8efe745d4",
+  "active": "1c91c4cac158f5c2",
   "lastOpenFiles": [
-    "复变.md",
+    "assets/数电/file-20261010104238778.png",
     "量子力学.md",
+    "复变.md",
     "assets/量子力学/file-20261010090210582.png",
     "assets/量子力学/file-20261010090054196.png",
     "assets/量子力学/file-20261010090012947.png",
