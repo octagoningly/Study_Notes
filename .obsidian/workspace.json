@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de45d6a7d9e2fb0f",
+        "id": "603dfb44d8bf04e3",
         "type": "tabs",
         "children": [
           {
-            "id": "1c91c4cac158f5c2",
+            "id": "42ef1de411c8111a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数电.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "数电"
+              "title": "新标签页"
             }
           }
         ]
@@ -179,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c91c4cac158f5c2",
+  "active": "08bdea5cf25fb854",
   "lastOpenFiles": [
+    "数电.md",
+    "未命名.canvas",
     "assets/数电/file-20261010104238778.png",
     "量子力学.md",
     "复变.md",
@@ -212,8 +209,6 @@
     "assets/量子力学/file-20261010080028951.png",
     "assets/量子力学/file-20261010075917095.png",
     "assets/量子力学/file-20261009234831173.png",
-    "assets/量子力学/file-20261009234350034.png",
-    "数电.md",
     "assets/量子力学",
     "tmp/pdfs/digital-ch5-review",
     "tmp/pdfs",
